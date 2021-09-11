@@ -16,7 +16,9 @@
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.M11
 * **Năm học:** HK1 (2021 - 2022)
-* **Giảng viên:** PGD.TS Lê Đình Duy email: *duyld@uit.edu.vn* - Ths.Phạm Nguyễn Trường An email: *truonganpn@uit.edu.vn* 
+* **Giảng viên:** 
+  * PGS.TS Lê Đình Duy - Email: *duyld@uit.edu.vn* 
+  * Ths.Phạm Nguyễn Trường An - Email: *truonganpn@uit.edu.vn* 
 
 ## GIỚI THIỆU NHÓM
 * **Tên nhóm:** HPD
