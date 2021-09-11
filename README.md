@@ -24,5 +24,5 @@
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | Github                                                     | 
 | :---: | ---                    | ---        | ---         | ---                    | ---                                                        |
 | 1     | <strong>  Đỗ Nguyễn Hoàng Huy </strong>  | 19521603   | Nhóm trưởng | 19521603@gm.uit.edu.vn | https://github.com/Al3xDo                | 
-| 2     |<strong> Nguyễn Tấn Phong </strong>   | 18521239   | Thành viên  | phong.nguyeninfo18@gmai.com | https://github.com/Phongnguyen2705  |
+| 2     |<strong> Nguyễn Tấn Phong </strong>   | 18521239   | Thành viên  | phong.nguyeninfo18@gmail.com | https://github.com/Phongnguyen2705  |
 | 3     | <strong> Đặng Duy Đạt </strong>      | 19521216   | Thành viên  |  19521216@gm.uit.edu.vn |https://github.com/DangDuyDat       |
